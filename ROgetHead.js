@@ -13,6 +13,10 @@
 // @downloadURL  https://raw.githubusercontent.com/kenornotes/xmastreeROTW/master/ROgetHead.js
 // ==/UserScript==
 
+// ==OpenUserJS==
+// @author       kenornotes
+// ==/OpenUserJS==
+
 (function() {
     'use strict';
 
