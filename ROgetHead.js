@@ -9,6 +9,8 @@
 // @match        https://www.wegames.com.tw/site/login
 // @match        https://rom.gnjoy.com.tw/event_xmastree/frienddecorate?code=*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/kenornotes/xmastreeROTW/master/ROgetHead.js
+// @downloadURL  https://raw.githubusercontent.com/kenornotes/xmastreeROTW/master/ROgetHead.js
 // ==/UserScript==
 
 (function() {
